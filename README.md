@@ -13,17 +13,17 @@ Here our objective is to transform images into corresponding sketches using open
 7. Converting into sketch
 8. Saving the sketch
 
-### Live Link
-https://sketch-navi.herokuapp.com/
-
 ### Input Image                                                                       
 ![Screenshot](Input.jpeg) 
 
 ### Output Image
 ![Screenshot](Output.png) 
 
+### Live Link
+https://sketch-navi.herokuapp.com/
+
 ### Flowchart
-![Screenshot](flowchart.jpeg) 
+![Screenshot](Flowchart.jpeg) 
 
 ## Submitted by :- 
 ### Navpreet Singh Kapoor
