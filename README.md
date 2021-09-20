@@ -17,10 +17,10 @@ Here our objective is to transform images into corresponding sketches using open
 https://sketch-navi.herokuapp.com/
 
 ### Input Image                                                                       
-![Screenshot](input.jpeg) 
+![Screenshot](Input.jpeg) 
 
 ### Output Image
-![Screenshot](output.jpeg) 
+![Screenshot](Output.png) 
 
 ### Flowchart
 ![Screenshot](flowchart.jpeg) 
